@@ -19,3 +19,5 @@ We evaluated [Fuzzilli](https://github.com/googleprojectzero/fuzzilli) and [Supe
 This repository contains the related artifacts for reproducability.
 
 If there are any questions feel free to contact us.
+
+1. The input seeds used for Superion are provided [here](https://github.com/evaluating-fuzzilli-for-js-jit-fuzzing/seeds)
