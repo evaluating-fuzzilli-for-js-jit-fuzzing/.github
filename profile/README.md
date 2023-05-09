@@ -3,11 +3,12 @@
 This is the artifact repository of [*FUZZILLI: Fuzzing for JavaScript JIT Compiler Vulnerabilities*](https://www.ndss-symposium.org/ndss-paper/fuzzilli-fuzzing-for-javascript-jit-compiler-vulnerabilities/) presented at NDSS'23.
 
 ``` 
-@article{grossfuzzilli,
-  title={FUZZILLI: Fuzzing for JavaScript JIT Compiler Vulnerabilities},
-  author={Gro{\ss}, Samuel and Koch, Simon and Bernhard, Lukas and Holz, Thorsten and Johns, Martin}
-  year={2023},
-  venue={Network and Distributed System Security (NDSS) Symposium}
+@inproceedings{ndss.2023.24290,
+author = {Groß, Samuel and Koch, Simon and Bernhard, Lukas and Holtz, Thorsten and Johns, Martin},
+title = {Fuzzilli: Fuzzing for JavaScript JIT Compiler Vulnerabilities},
+year = {2023},
+booktitle = {Network and Distributed Systems Security (NDSS) Symposium 2023},
+doi={\url{https://dx.doi.org/10.14722/ndss.2023.24290}}
 }
 ```
 
