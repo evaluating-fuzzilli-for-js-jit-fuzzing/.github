@@ -14,10 +14,10 @@ doi={\url{https://dx.doi.org/10.14722/ndss.2023.24290}}
 
 ## Structure
 
-We evaluated [Fuzzilli](https://github.com/googleprojectzero/fuzzilli) and [Superion](https://github.com/zhunki/Superion) and compared their code coverage in general and concerning JIT compiler related code in particular.
+We evaluated [Fuzzilli](https://github.com/googleprojectzero/fuzzilli) and [Superion](https://github.com/zhunki/Superion) and compared their code coverage in general and concerning JIT compiler related code in particular. As Superion requires an input corpus we opted to use the open dataset provided by DIE our artifacts concerning intial coverage and a reduced input corpus is [here](https://github.com/evaluating-fuzzilli-for-js-jit-fuzzing/seeds).
 
 This repository contains the related artifacts for reproducability.
 
 If there are any questions feel free to contact us.
 
-1. The input seeds used for Superion are provided [here](https://github.com/evaluating-fuzzilli-for-js-jit-fuzzing/seeds)
+
